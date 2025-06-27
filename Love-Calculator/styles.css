@@ -112,7 +112,7 @@ button:active {
     transform: translateY(0);
 }
 
-#result {
+/* #result {
     margin-top: 1.5rem;
     padding: 1.2rem;
     text-align: center;
@@ -130,7 +130,7 @@ button:active {
 #result.show {
     opacity: 1;
     transform: translateY(0);
-}
+} */
 
 
 @media (max-width: 480px) {
